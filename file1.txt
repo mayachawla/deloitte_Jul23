@@ -1,0 +1,6 @@
+This is myu first file
+I am learning Unix
+Also I am learning Git
+Adding 4the line to the the file
+adding next line by using vi command
+trying to modifying
