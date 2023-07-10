@@ -3,3 +3,4 @@ Also I am learning Git
 trying to modifying
 this is one thi ng i am adding to my master
 mayank line
+this is what im trying to do after merge and pull
